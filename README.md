@@ -1,10 +1,11 @@
 # AdonisJs Polis
-A simple AdonisJs package that allows you to use multi tenancy in your application.
+This is a clone of Polis by JMiranda.
+ A simple AdonisJs package that allows you to use multi tenancy in your application.
 
 ## Instalation
 Install package with `adonis install`:
 ```
-adonis install @jrmiranda/adonisjs-polis
+adonis install @sirolad/adonisjs-polis
 ```
 In case of installation using `npm` or `yarn`, you must copy the `config/index.js` file into your app config directory as `config/polis.js`.
 
@@ -13,7 +14,7 @@ Register Polis provider inside `start/app.js` file:
 ```
 const providers = [
   ...
-  '@jrmiranda/adonisjs-polis/providers/PolisProvider'
+  '@sirolad/adonisjs-polis/providers/PolisProvider'
   ...
 ]
 ```
