@@ -30,7 +30,6 @@ class TenantDetector {
         tenant = request.subdomains()[0]
         break;
       default:
-        tenant = 1
         break;
     }
 

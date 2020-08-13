@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac4df911-dadb-41e4-a5b7-50be98d3f380" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Middleware/TenantDetector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Middleware/TenantDetector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polis.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polis.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597346116283</updated>
       <workItem from="1597346117398" duration="2096000" />
+      <workItem from="1597349643675" duration="274000" />
+      <workItem from="1597352204578" duration="434000" />
     </task>
     <servers />
   </component>

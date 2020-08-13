@@ -20,7 +20,7 @@ class Polis {
   }
 
   getTenant () {
-    return this.tenant
+    return this.tenant ?? 1
   }
 
   getTenantColumn () {
