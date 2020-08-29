@@ -19,8 +19,12 @@ class Polis {
     this.tenant = tenant
   }
 
+  /**
+   * @todo clean up hard code for seeding
+   * @returns {*|number}
+   */
   getTenant () {
-    return this.tenant ?? 1
+    return this.tenant ? this.tenant : 1
   }
 
   getTenantColumn () {
